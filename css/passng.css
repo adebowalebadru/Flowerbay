@@ -1,0 +1,64 @@
+.bkg-color{
+    background-color: #86A51B;
+}
+
+.bkg{
+    background-image: url(../image/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.colour{
+    color: #86A51B;
+}
+
+
+.bkg-padtop{
+    padding-top: 10vh;
+}
+.bkg-pad{
+    padding-bottom: 20vh;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.btn-color{
+    background-color: #86A51B !important;
+    color: white !important;
+}
+
+.main2-color{
+    background-color: #F8FEE2;
+}
+
+.tell{
+    background-color: #86A51B !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+.bkg-android{
+    /* background-image: url(../image/android.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    box-shadow: 2px 2px 10px grey;
+    height: 200px;
+}
+
+.main3{
+    background-color: #F8FEE2;
+}
+
+
+.main7{
+    background-color: #86A51B !important;
+}
+
+/* .resize{
+    border-radius: 50%;
+} */

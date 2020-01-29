@@ -1,0 +1,66 @@
+h2{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: lightblue;
+    width: 40vw;
+    margin: auto;
+}
+
+#p{
+    color: green;
+    font-size: larger;
+    margin: 50px 70px ;
+}
+
+.ipsum{
+    color: hotpink;
+    font-size: 30px;
+}
+
+.korea{
+    color: lawngreen;
+    font-size: xx-large;
+}
+
+.bird{
+    color: blue;
+}
+
+.insect{
+    color: green;
+}
+
+.flying{
+    text-decoration: underline;
+}
+
+.lines{
+    line-height: 1.2;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: line-through;
+}
+
+#apple{
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+}
+
+div{
+font-size: 15px;
+}
+
+/* div h1{
+    font-size: ;
+}
+
+div li{
+    font-size: 2rem;
+} */
+
+#book li{
+    list-style-type: square;
+}

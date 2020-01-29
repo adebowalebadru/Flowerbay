@@ -1,0 +1,30 @@
+h1{
+    color: #FEB60B;
+    font-size: 40pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgray;
+    text-align: center;
+    width: none;
+    font-style: italic;
+}
+
+footer{
+    font-size: x-small;
+    text-decoration: line-through;
+}
+
+#birth{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orangered;
+
+}
+.div{
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}

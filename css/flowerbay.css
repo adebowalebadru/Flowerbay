@@ -1,0 +1,31 @@
+.bkg{
+    background-color: #a70808;
+}
+
+.colour{
+    color: #a70808 !important;
+}
+.bkg2{
+    background-color: #E9ECEF;
+}
+
+.position{
+    position: absolute;
+}
+
+/* FOOTER */
+.link {
+    position: absolute;
+    right: 5px;
+    top: 6px;
+    background-color: #a70808;
+    color: white;
+
+
+    /* border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px; */
+    border-radius:5px;
+    border: 0;
+}

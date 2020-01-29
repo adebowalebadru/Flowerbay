@@ -1,0 +1,100 @@
+h1{
+    color: white;
+    background-color: teal;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+div{
+    background-color: skyblue;
+    width: 20vw;
+
+/* Position property styling: */
+
+    position: fixed;
+    top: 60px;
+
+}
+
+
+#Soup{
+    margin-top: 150px;
+}
+
+.salad{
+    width: 40vw;
+}
+
+.soup{
+    width: 40vw
+}
+
+
+
+.art{
+    padding: 15px 15px;
+    background-color: #C4220D;
+    border: 1px solid #C4220D;
+    color: white;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2vw;
+    }
+
+    
+    .function{
+        padding: 20px 10px;
+        background-color:#EACCCC;
+        border: 1px solid #EACCCC;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 900;
+        border: 1px solid white;
+    }
+
+    table{
+        margin-bottom: 20px;
+        border: 1px solid white;
+        width: 40vw
+    }
+
+
+    .use{
+        padding: 20px 10px;
+        background-color: #F5E8E7;
+        border: 1px solid #EACCCC;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 900;
+        border: 1px solid white;
+    }
+
+
+    .head{
+        border: 1px solid blue;
+        width: 20vw;
+        padding: 40px;
+        background-color: blue;
+        color: blue;
+    }
+
+    .foot{
+        border: 2px solid red;
+        height: 50vh;
+        width: 10vw;
+    }
+
+    img{
+        border: 4px solid black;
+        padding: 10px;
+    }
+
+table, td {
+    border-bottom: 1px solid black;
+    font-size: small;
+    border-collapse: collapse;
+}
+.eg2{
+    text-align: right;
+}
+

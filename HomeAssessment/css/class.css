@@ -1,0 +1,155 @@
+/* .head{
+    border-bottom: 5px solid #FEDC3D;
+    padding: 20px;
+    height: 15vh;
+    background-color: #EC576B;
+}
+
+span{
+    background-color: blue;
+}
+.body{
+    padding: 20px;
+    height: 60vh;
+    margin: 20px;
+    background-color: #FEDC3D;
+}
+
+#leg{
+    border-top: 4px solid #FEDC3D;
+    padding: 10px;
+    height: 20px;
+    background-color: #4EC5C1;
+    color: white;
+    text-align: center;
+}
+
+.body #tab1{
+    padding: 30px;
+    border: 1px solid white;
+    width: 40vw;
+    background-color: white;
+    margin: 60px 50px;
+}
+
+#tab2{
+    padding: 30px;
+    border: 1px solid white;
+    background-color: white;
+    width: 30vw;
+    margin-left: 60%;
+
+}
+
+
+.body h1 {
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 4px solid black;
+    width: 30vw;
+    margin: auto;
+}
+
+.head h1{
+    border-bottom: 2px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: -15px;
+    font-family: Arial, sans-serif;
+}
+
+.head p{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    border-bottom: 2px solid white;
+    font-size: small;
+    
+} */
+/* css for the assesment */
+
+#table1{
+    height: 100px;
+    width: 35%;
+    background-color: #15A186;
+}
+
+.one{
+    color: white;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+    padding-top: 20px;
+    font-weight: lighter;
+    font-size:x-large;
+    
+    
+}
+
+.two{
+    color: white;
+    margin-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -10px;
+}
+
+
+/* Body for Div id=table2 */
+
+#table2{
+    height: 450px;
+    width: 35%;
+    background-color: #ECF0F1;
+}
+
+.label{
+    font-weight: bolder;
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box{
+width: 90%;
+padding: 10px;
+margin: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-style: none;
+box-shadow: 1px 1px 2px grey;
+}
+
+
+.submit{
+    background-color: #5BB85D;
+    color: white;
+    margin: 5px;
+    width: 95%;
+    padding: 10px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: none;
+    box-shadow: 1px 1px 2px grey;
+}
+
+
+/* Footer for Div id=table2 */
+
+#footer{
+    text-align: right;
+    margin-right: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}

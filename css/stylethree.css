@@ -1,0 +1,240 @@
+#items{
+    list-style-type: none;
+}
+
+#electronics{
+    list-style-type: lower-roman;
+    list-style-position: inside;
+    text-align: left;
+    /* list-style-image: url("/image/orange-wifi-for-list-style-hi.png"); */
+}
+
+#electronics li{
+    background-color: blueviolet;
+}
+
+div section p{
+    color: blueviolet;
+}
+
+span{
+    color: crimson;
+    text-decoration: line-through;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgrey;
+}
+
+/* h1, #items, .love{
+    color: darkorange;
+} */
+
+
+/* specialized selector */
+
+.insect.flying {
+    text-decoration: underline; 
+    font-weight: bold;
+}
+
+
+/* Descendant selector */
+#guideline a { color: #00FF00; } 
+
+#guideline blockquote a{
+    color: forestgreen;
+}
+
+/* Direct descendant make use of greater than > sign */
+#guideline > a{
+    color: hotpink;
+}
+
+/* h1{
+    color: khaki !important;
+} */
+
+/* h1{
+    color: cornflowerblue
+} */
+
+.eg2{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.eg1{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+th{
+    padding: 10px;
+}
+
+tr:nth-child(odd){
+background-color: chartreuse;
+}
+
+tr:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+
+.bkg{
+    background-image: url(../image/Salad.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+/* Class 14-12-2019 */
+
+.welcome{
+    /* background-color: gray; */
+    background-image: url(../image/soup.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+    border-width: 20px;
+    border-style: outset;
+    border-color: grey;
+    color: yellow;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+
+    box-shadow: -5px -0px 18px goldenrod;
+
+    text-shadow: 1px 1px 1px blue;
+
+}
+
+
+/* Relative Positioning */
+
+/* #red{
+    height: 300px;
+    width:300px;
+    background-color: red;
+    position: relative;
+    top: 0;
+   bottom: 0;
+   left: 0;
+}
+
+#yellow{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+
+}
+
+#blue{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    position: relative;
+    bottom: 600px;
+    left: 600px;
+} */
+
+
+
+#red{
+    height: 300px;
+    width:300px;
+    background-color: red;
+    position: relative;
+    top: 0;
+   bottom: 300px;
+   left: 300px;
+}
+
+#yellow{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+    bottom: 300px;
+    left: 600px;
+
+
+}
+
+#blue{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    position: relative;
+    left: 0;
+    bottom: 600px;
+}
+
+
+/* Absolute Positioning */
+
+
+#Absolute{
+    position: relative;
+}
+
+#black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+#purple{
+    height: 100px;
+    width: 100px;
+    background-color:purple;
+    position: absolute;
+    top: 0;
+    right: 200px;
+}
+
+
+/* Bootstrap goofing */
+
+.photo{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 2px 2px 3px black;
+}
+
+aside{
+ border: 1px solid yellow;
+ margin-left: 50%;
+ margin-bottom: -50%;
+ background-image: url(../image/DSC_9920.jpg);
+ background-repeat: no-repeat;
+ background-size: 500px;
+ width: 15vw;
+ height: 400px;
+}
+
+
+
